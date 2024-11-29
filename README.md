@@ -36,7 +36,7 @@ DX 솔루션 업체 (주)에이테크에서 AI개발자 직무 인턴으로 재�
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 ## Experience, Awards and Honors
-(주)에이테크 인턴 2024.02 - 현재
+(주)에이테크 솔루션개발부 2024.02 - 현재
 
 울산대학교 DaiS Lab 연구인턴 2022.09 - 2024.02
 
