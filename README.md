@@ -9,6 +9,8 @@ AI/빅데이터 솔루션 업체 (주)에이테크에서 AI개발 직무 수행(
 
 (주)영남하우스 시공플랫폼 개발부 내 AI 챗봇 및 MES 개발 담당으로 재직 중
 
+UNIST 산업인공지능 대학원 석사과정 수행 중(2026.03 ~)
+
 📌 Interested
 - **Data Mining**
 - **Computer Vision(CV)**
