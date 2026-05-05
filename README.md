@@ -37,8 +37,8 @@ AI/빅데이터 솔루션 업체 (주)에이테크에서 AI개발 직무 수행(
 ![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
-## Experience, Awards and Honors
-(주)영남하우스 시공플랫폼 개발부 2025.03 - 현재
+## Experience
+(주)영남하우스 시공플랫폼 개발부 2025.03 - 2026.04
 
 (주)에이테크 솔루션개발부 2024.02 - 2025.02
 
